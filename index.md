@@ -1,6 +1,6 @@
 # Methodology Assignment 5
 
-**Name:** Yutian Shi, **Email:** yus029@ucsd.edu \
+**Name:** Yutian Shi, **Email:** yus029@ucsd.edu <br />
 
 **Section:** A07, **Mentor:** Mikio Aoi
 
